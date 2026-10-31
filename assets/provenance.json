@@ -26,5 +26,31 @@
     "sha256": "6e0602d6dcbfb90d881a4a713cdcb1791eefab1fe87d3c0d22472da0288916b0",
     "description": "Illuminated resort pool and buildings at dusk",
     "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  },
+  {
+    "file": "coastal-diorama-v2.png",
+    "provider": "Built-in image_gen",
+    "type": "Original AI-generated fictional architectural diorama",
+    "description": "Detailed imagined coastal retreat island with main villa, two annexes, pool, palms and limestone shore. No real property represented.",
+    "source": "Parent generation record: evidence/revision-2/generated-assets.json",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 3150628,
+    "sha256": "f74702379e2ba9858d29f47c30ab2fcbd54f3105dece1999c457f3c51ace7c19",
+    "usage": "Fictional Dune House hero and explicitly labelled 2.5D chapter scene.",
+    "encoding": "Original PNG"
+  },
+  {
+    "file": "coastal-diorama-v2.webp",
+    "provider": "Built-in image_gen",
+    "type": "Original AI-generated fictional architectural diorama",
+    "description": "Detailed imagined coastal retreat island with main villa, two annexes, pool, palms and limestone shore. No real property represented.",
+    "source": "Parent generation record: evidence/revision-2/generated-assets.json",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 691110,
+    "sha256": "721d6ed5b5dbe7fb3f750fb56d2c07cc88770a372e452bad98b9fcc3f3fdaa4c",
+    "usage": "Fictional Dune House hero and explicitly labelled 2.5D chapter scene.",
+    "encoding": "Browser WebP encoder, quality0.9, no content changes"
   }
 ]
